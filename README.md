@@ -1,7 +1,9 @@
 # StudentDormitoryManagementSystem
 学生寝室管理系统.c
 
-系统详情介绍在CSDN，链接在此：https://blog.csdn.net/qq_38677092/article/details/113114475
+系统详情介绍在CSDN的链接在此：https://blog.csdn.net/qq_38677092/article/details/113114475
+
+如果图片加载不出来就去CSDN看吧~
 
 项目包含文件：
 
