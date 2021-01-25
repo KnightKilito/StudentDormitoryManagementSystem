@@ -45,13 +45,17 @@
 ![系统结构图](https://img-blog.csdnimg.cn/20210125151054969.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4Njc3MDky,size_16,color_FFFFFF,t_70#pic_center)
 
 超清流程图在线浏览链接：https://www.processon.com/view/link/5ee6cdd807912929cb423912
+
 密码：1703
+
 [点击前往](https://www.processon.com/view/link/5ee6cdd807912929cb423912)
 
 **三、使用工具**
 
 1.DevCpp-5.4.0
+
 2.VSCode
+
 3.建议用Dev，一体的IDE，不用很麻烦去配置，但是vscode在编辑的时候使用体验更佳，有能力的hxd自己去百度“VSCode环境配置”吧
 
 这边给个推荐的文章：
@@ -60,14 +64,26 @@
 **四、界面展示**
 
 1.开始界面
+
 ![开始界面](https://img-blog.csdnimg.cn/20210125154911874.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4Njc3MDky,size_16,color_FFFFFF,t_70#pic_center)
+
 2.添加学生信息
+
 ![添加学生信息](https://img-blog.csdnimg.cn/20210125154934791.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4Njc3MDky,size_16,color_FFFFFF,t_70#pic_center)
+
 3.查询学生信息
+
 ![查询学生信息](https://img-blog.csdnimg.cn/20210125155002580.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4Njc3MDky,size_16,color_FFFFFF,t_70#pic_center)
+
 4.保存数据到文件中
+
 ![保存数据到文件中](https://img-blog.csdnimg.cn/20210125155109892.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4Njc3MDky,size_16,color_FFFFFF,t_70#pic_center)
+
 5.启动时自检是否有本地数据，有则读取，查询操作跟之前一样
+
 ![成功查询到本地存档](https://img-blog.csdnimg.cn/20210125155211251.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4Njc3MDky,size_16,color_FFFFFF,t_70#pic_center)
+
 6.退出时释放节点（链式存储）
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210125155422927.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4Njc3MDky,size_16,color_FFFFFF,t_70#pic_center)
+
